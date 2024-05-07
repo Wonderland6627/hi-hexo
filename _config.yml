@@ -3,13 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Wonderland6627
+subtitle: 'Welcome to my blog'
+description: 'My first blog base on Hexo'
 keywords:
-author: John Doe
+author: Wonderland6627
 language: en
 timezone: ''
+year: 2024
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
