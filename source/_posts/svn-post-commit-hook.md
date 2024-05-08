@@ -1,11 +1,12 @@
 ---
 title: SVN 利用Post-commit hook 同步提交信息至钉钉群
 date: 2024-05-08 14:48:40
-top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/imagehost/07393c4437cc5e0cb7589e9194807fedd2cd0a3c.jpg
 tags:
     - SVN
 categories:
     - 技术
+    - 开发流程
+top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/imagehost/07393c4437cc5e0cb7589e9194807fedd2cd0a3c.jpg
 ---
 
 ***

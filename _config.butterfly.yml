@@ -207,7 +207,7 @@ footer:
   owner:
     enable: true
     since: 2024
-  custom_text:
+  custom_text: 欢迎光临～
   copyright: true # Copyright of theme and framework
 
 # aside (側邊欄)
