@@ -8,8 +8,8 @@ subtitle: 'Welcome to my blog'
 description: 'My first blog base on Hexo'
 keywords:
 author: Wonderland6627
-language: en
-timezone: ''
+language: zh-CN
+timezone: 'Asia/Shanghai'
 year: 2024
 
 # URL
