@@ -1,5 +1,9 @@
 ---
 title: Hello World
+tags:
+    - Hello World
+    - Hexo
+copyright: false
 ---
 
 Welcome to my Blog!
