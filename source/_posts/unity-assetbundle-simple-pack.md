@@ -10,7 +10,9 @@ top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/imagehost/07393c443
 ---
 
 给定工程中一个文件夹，将其下面所有资源打成ab包
-遍历文件夹下资源请参考我的另一个文章：[C# 递归遍历文件夹下所有文件夹和文件](https://blog.csdn.net/weixin_42266035/article/details/118383699)
+遍历文件夹下资源请参考我的另一个文章：
+[C# 递归遍历文件夹下所有文件夹和文件（本站）](https://wonderland6627.github.io/技术/CSharp/csharp-recursion-foreach-directories-files/)
+[C# 递归遍历文件夹下所有文件夹和文件（CSDN）](https://blog.csdn.net/weixin_42266035/article/details/118383699)
 ```csharp
 using System.IO;
 using System.Collections;
