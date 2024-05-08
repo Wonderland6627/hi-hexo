@@ -3,6 +3,7 @@ title: 【Unity】AssetBundle简单打包
 date: 2024-05-08 18:30:08
 tags:
     - Unity
+    - AssetBundle
 categories:
     - 技术
     - Unity
