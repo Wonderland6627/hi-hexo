@@ -7,7 +7,7 @@ tags:
 categories:
     - 技术
     - Unity
-top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/imagehost/07393c4437cc5e0cb7589e9194807fedd2cd0a3c.jpg
+top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/blog/07393c4437cc5e0cb7589e9194807fedd2cd0a3c.jpg
 ---
 
 [方法参考博客](https://gameinstitute.qq.com/community/detail/118295)：https://gameinstitute.qq.com/community/detail/118295

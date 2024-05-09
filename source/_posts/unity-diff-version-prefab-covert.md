@@ -7,7 +7,7 @@ tags:
 categories:
     - 技术
     - Unity
-top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/imagehost/07393c4437cc5e0cb7589e9194807fedd2cd0a3c.jpg
+top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/blog/07393c4437cc5e0cb7589e9194807fedd2cd0a3c.jpg
 ---
 
  在Unity开发过程中，会创建很多prefab或者使用一些素材包，由于更换Unity版本或者版本与素材包导出版本不一致，会导致prefab损坏的情况，针对这些情况，我制作了这个预制体转换工具，用于将高版本的预制体转换为低版本Unity可使用的格式。

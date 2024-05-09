@@ -7,7 +7,7 @@ tags:
 categories:
     - 技术
     - Unity
-top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/imagehost/07393c4437cc5e0cb7589e9194807fedd2cd0a3c.jpg
+top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/blog/07393c4437cc5e0cb7589e9194807fedd2cd0a3c.jpg
 ---
 
 给定工程中一个文件夹，将其下面所有资源打成ab包

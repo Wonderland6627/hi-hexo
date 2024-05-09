@@ -6,7 +6,7 @@ tags:
 categories:
     - 技术
     - Unity
-top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/imagehost/07393c4437cc5e0cb7589e9194807fedd2cd0a3c.jpg
+top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/blog/07393c4437cc5e0cb7589e9194807fedd2cd0a3c.jpg
 ---
 
 适用于物体按固定路线移动（比如迷宫中的怪物寻路），可以先设置一个组存放这些位置。

@@ -6,7 +6,7 @@ tags:
     - image host
 categories:
     - 技术
-top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/imagehost/07393c4437cc5e0cb7589e9194807fedd2cd0a3c.jpg
+top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/blog/07393c4437cc5e0cb7589e9194807fedd2cd0a3c.jpg
 ---
 
 本教程将向您展示如何使用Github和PicGo搭建自己的图床（图片存储服务）。

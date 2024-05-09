@@ -7,7 +7,7 @@ tags:
 categories:
     - 技术
     - Unity
-top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/imagehost/07393c4437cc5e0cb7589e9194807fedd2cd0a3c.jpg
+top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/blog/07393c4437cc5e0cb7589e9194807fedd2cd0a3c.jpg
 ---
 
 **脚本中文乱码的原因可能是.cs文件的编码格式不是UTF-8。**

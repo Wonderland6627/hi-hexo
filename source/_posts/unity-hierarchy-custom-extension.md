@@ -7,7 +7,7 @@ tags:
 categories:
     - 技术
     - Unity
-top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/imagehost/07393c4437cc5e0cb7589e9194807fedd2cd0a3c.jpg
+top_img: https://cdn.jsdelivr.net/gh/Wonderland6627/cloudres/blog/07393c4437cc5e0cb7589e9194807fedd2cd0a3c.jpg
 ---
 
 在Unity的层级面板选中物体，右键会显示默认菜单，当你定义了自己的预制体，为了方便创建，可以将层级面板菜单扩展，一键添加你的Prefab。
